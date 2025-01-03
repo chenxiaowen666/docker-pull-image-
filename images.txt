@@ -1,3 +1,4 @@
+
 redis
 nginx:1.27.2
 mysql:8.4.3
@@ -15,3 +16,17 @@ maven:3.9.9-amazoncorretto-8-debian-bookworm
 elasticsearch:8.17.0
 apache/rocketmq:latest
 tomcat:9.0.98-jdk8-corretto-al2
+hashicorp/sentinel:0.29
+jenkins/jenkins
+jenkins:2.60.3
+chaincore/developer:latest
+votebot/shard:latest
+bitnami/prometheus:2.55.1
+grafana/grafana
+grafana/loki
+bitnami/zipkin
+logstash:8.17.0
+kibana:8.17.0
+bitnami/kibana
+bitnami/metrics-server
+bitnami/oauth2-proxy:7.7.1
