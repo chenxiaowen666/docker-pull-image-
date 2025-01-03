@@ -30,5 +30,4 @@ kibana:8.17.0
 bitnami/kibana
 bitnami/metrics-server
 bitnami/oauth2-proxy:7.7.1
-springcloud/eureka:latest
 shardingsphere/sharding-proxy:latest
