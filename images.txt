@@ -3,4 +3,4 @@ nginx:1.27.2
 mysql:8.4.3
 rabbitmq
 bitnami/nginx
-rabbitmq:3.13-management
+rabbitmq:management
