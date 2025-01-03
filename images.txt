@@ -4,3 +4,14 @@ mysql:8.4.3
 rabbitmq
 bitnami/nginx
 rabbitmq:management
+mongodb/mongodb-community-server:7.0.9-ubi9
+node:lts-jod
+centos:centos7.9.2009
+ubuntu:plucky-20241213
+bitnami/kafka
+nacos/nacos-server
+bitnami/zookeeper
+maven:3.9.9-amazoncorretto-8-debian-bookworm
+elasticsearch:8.17.0
+apache/rocketmq:latest
+bitnami/tomcat:sha256-3db7331e4e4ee62eb84102e50c42651f254dcbfbd04ec64a973c0e26802e3f09
