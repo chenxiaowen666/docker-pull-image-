@@ -14,4 +14,4 @@ bitnami/zookeeper
 maven:3.9.9-amazoncorretto-8-debian-bookworm
 elasticsearch:8.17.0
 apache/rocketmq:latest
-bitnami/tomcat:sha256-3db7331e4e4ee62eb84102e50c42651f254dcbfbd04ec64a973c0e26802e3f09
+tomcat:9.0.98-jdk8-corretto-al2
