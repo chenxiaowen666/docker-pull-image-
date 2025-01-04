@@ -34,3 +34,4 @@ vulhub/shiro
 apache/hadoop:3.4.1
 aaionap/hbase:1.2.0
 postgres:12.22
+osixia/keepalived
